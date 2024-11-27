@@ -1,9 +1,11 @@
 title: Brandon Biro
 logo: /assets/BBiroPhoto.png
-description: >
+description: |
   I am a graduate student pursuing a Master of Science in Applied Business Analytics, with a passion for leveraging data to drive actionable insights and informed decision-making.  
 
   With over a decade of professional experience in education and entrepreneurship, I am driven by curiosity and a desire to solve complex problems, with a keen interest in data science, business analytics, and educational technology.  
 
   My goal is to contribute to innovative, data-driven solutions that enhance efficiency and deliver measurable results for organizations.  
+
+show_downloads: false
 theme: jekyll-theme-minimal
