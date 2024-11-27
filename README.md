@@ -33,13 +33,13 @@ Analyzed factors influencing academic success using predictive modeling techniqu
 
 
 ## Skills
-**Programming:** Python, R, SQL  
+- **Programming:** Python, R, SQL  
 
-**Data Visualization:** Tableau, Power BI  
+- **Data Visualization:** Tableau, Power BI  
 
-**Statistical Analysis:** Predictive Modeling, Optimization  
+- **Statistical Analysis:** Predictive Modeling, Optimization  
 
-**Soft Skills:** Problem-solving, collaboration, communication, project management  
+- **Soft Skills:** Problem-solving, collaboration, communication, project management  
 
 
 ## Certifications
