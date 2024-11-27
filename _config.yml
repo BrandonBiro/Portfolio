@@ -2,6 +2,6 @@ title: Brandon Biro
 logo: /assets/BBiroPhoto.png
 description: >
   I am a graduate student pursuing a Master of Science in Applied Business Analytics.  
-show_downloads: true
-show_footer: true
+show_downloads: false
+show_footer: false
 theme: jekyll-theme-minimal
