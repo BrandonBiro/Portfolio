@@ -1,1 +1,7 @@
-# portfolio
+# Aspiring Data Scientist
+### Education
+
+### Work Experience
+
+
+### Projects
