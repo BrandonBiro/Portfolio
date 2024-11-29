@@ -13,7 +13,7 @@
 ## Projects
 ### Predicting Loan Approvals with Logistic Regression
 
-[View Project]([(https://github.com/BrandonBiro/Predicting-Loan-Approvals-with-Logistic-Regression)])  
+[View Project](https://github.com/BrandonBiro/Predicting-Loan-Approvals-with-Logistic-Regression)  
 
 Conducted a comprehensive analysis of loan approval data using logistic regression. Engineered features, evaluated model performance with precision and recall, and implemented class balancing techniques to optimize results.  
 
