@@ -29,7 +29,7 @@ Extracted data using the YouTube API to analyze channel performance metrics. Bui
 
 [View Project](#)  
 
-Analyzed factors influencing academic success using predictive modeling techniques. Focused on optimizing interventions for at-risk students based on their demographics, attendance, and grade patterns.  
+Analyzed factors influencing academic success using predictive modeling techniques. Focused on optimizing interventions for at-risk students based on their demographics and grade patterns.  
 
 
 ## Skills
@@ -43,5 +43,5 @@ Analyzed factors influencing academic success using predictive modeling techniqu
 
 
 ## Certifications
-- IBM Data Science Professional (Exp. Completion: March 2025)  
-- PMI Certified Associate in Project Management (Exp. Completion: Dec. 2025)  
+- IBM Data Science Professional (Exp. Completion: April 2025)  
+- PMI Certified Associate in Project Management (Exp. Completion: January 2025)  
